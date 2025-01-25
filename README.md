@@ -1,11 +1,44 @@
-# PROJECT TITLE - ICARUS 
+# PROJECT TITLE - ICARUS AI 
 ![logo](Media/IMG-20240923-WA0003.jpg)
-# Transforming Carbon Credits into Connectivity for underserved Communities 
-This prototype demonstrates how an AI Agent helps empower off-grid communities with connectivity in form of SMS, Voice & Data microbundles using Carbon Credits generated when CO2 Emissions are avoided by consuming Solar Power. 
+# Transforming Carbon Credits into Connectivity For Off-grid Communities 
+This AI Chatbot simplifies solar energy adoption, gamifies CO2 offsetting by rewarding generated carbon credits in form of Voice, SMS & Data Connectivity Credits (microbundles) for users in off-grid and underserved communities.
 
 # Introduction 
-Connectivity remains poor in regions such as Southern Africa despite abundant sustainable energy resources, in particular solar energy and photovoltaics with rich carbon offsetting potential. This AI model is designed to abstract away from the complex carbon crediting mechanisms and GHG mitigation bureaucracy by seamlessly aggregating solar output, track carbon offsets to generate "CONNECTIVITY CREDITS" from carbon markets which have remained exclusive to large corporations. ICARUS AI is poised to easily disrupt this status quo, in a fun conversational manner.
+Connectivity remains poor in regions such as Southern Africa despite abundant sustainable energy resources, in particular solar energy and photovoltaics with rich carbon offsetting potential. This AI model is designed to abstract away from the complex carbon crediting mechanisms and GHG mitigation bureaucracy by seamlessly aggregating solar output, tracking carbon offsets & rewarding users with connectivity credits raised from carbon markets which have remained exclusive to large corporations. With icarus, we aim at paving way for democratizing the $1.5 Trillion Carbon Markets to ensure that actual offgrid communities also benefit individually, something currently impossible. 
 
+## Notable Challenges affecting Connectivity 
+1. Over 750MW drought induced Hydro power deficit in Southern Africa;
+2. Information gap on benefits of using sustainable energy sources due to complexities of carbon credit mechanisms
+3. Technological deficit to track & aggregate solar output to generate carbon credits
+4. Turning Carbon Credits into something actually tangible & useful such as SMS, data, voice, or discounts.
+## Getting Started
+### Prerequisites
+### Installation
+
+## Usage
+### AI Chatbot
+Abstracts user complexity and automates tasks...
+
+### Solar Panel Connection
+Guides users through setup...
+
+### Real-time Solar Output Tracking
+Provides live monitoring of...
+
+### Carbon Credit Tracking
+Tracks generated credits and visualizes...
+
+### Redeeming Connectivity Credits
+Converts carbon credits into SMS, data, voice, or discounts...
+
+## Technical Details
+[Explain the technology, backend, JS drones, etc.]
+
+## Contributing
+[Guidelines for contributing to the project.]
+
+## License
+[Your licensing information.]
 # KNOWLEDGE BASE
 # Global Electricity Grid
 Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
