@@ -28,20 +28,21 @@ Meanwhile, notable pressing challenges affecting Connectivity include;
 3. Technological deficit to aggregate the invisible solar output silos (nodes) to generate legitimate carbon credits as one homogeneous ecosystem. 
 4. Using Carbon Credits for something actually tangible & useful such as SMS, data, voice, or discounts.
 
-## Getting Started
-
-### Prerequisites
-### Installation
-
-# How it works
-Here's a step-by-step explanation of how the VGrid Africa ICARUS AI chatbot works:
-1. Step 1: User Interaction
-The user interacts with the chatbot through a conversational interface, such as a messaging app or website.
-
-2. Step 2: Natural Language Understanding (NLU)
-The chatbot's NLU component processes the user's input to identify their intent, entities, and context.
-
-3. Step 3: Knowledge Base Retrieval
+# Getting Started
+VGrid Africa Web Application, Advanced Meta & API Endpoints
+This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
+# How It works  
+Here's a step-by-step explanation of how the ICARUS AI chatbot works:
+1. ### User Interaction
+The user interacts with the iCarus through a conversational interface here vgridafrica.com 
+2. ### Natural Language Understanding (NLU)
+   ICARUS's NLU component processes the user's input to identify their intent, entities, and context.
+3. ### Knowledge Base Retrieval
+4. he NLU component retrieves information from the chatbot's knowledge bases, which include:
+2. Global Electricity Grid
+Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
+Source: World Bank
+Link: World Bank Data Catalog
 - User Profile Knowledge Base
 - Incentives Knowledge Base
 - Regional Energy Knowledge Base
@@ -57,25 +58,11 @@ The user provides feedback to the chatbot, which is used to iterate and improve 
 
 7. Step 7: Onboarding and Incentivization
 The chatbot guides the user through the onboarding process, provides personalized recommendations, and offers incentives for adopting solar energy solutions.
-
 8. Step 8: Ongoing Support and Engagement
 The chatbot provides ongoing support and engagement to the user, ensuring a seamless and personalized experience throughout their solar energy journey.
 ## Usage
 ### AI Chatbot
 Abstracts user complexity and automates tasks...
-# ICARUS KNOWLEDGE BASE/GIGA RESOURCES
-The NLU component retrieves information from the chatbot's knowledge bases, which include:
-1. VGrid Africa Web Application, Advanced Meta & API Endpoints
-This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
-2. Global Electricity Grid
-Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
-Source: World Bank
-Link: World Bank Data Catalog
-3. Potential Use:
-ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
-Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
-
-
 ### Solar Panel Connection
 Guides users through setup...
 
@@ -87,6 +74,31 @@ Tracks generated credits and visualizes...
 
 ### Redeeming Connectivity Credits
 Converts carbon credits into SMS, data, voice, or discounts...
+3.he NLU component retrieves information from the chatbot's knowledge bases, which include:
+1. VGrid Africa Web Application, Advanced Meta & API Endpoints
+This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
+2. Global Electricity Grid
+Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
+Source: World Bank
+Link: World Bank Data Catalog
+3. Potential Use:
+ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
+Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
+
+he NLU component retrieves information from the chatbot's knowledge bases, which include:
+1. VGrid Africa Web Application, Advanced Meta & API Endpoints
+This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
+2. Global Electricity Grid
+Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
+Source: World Bank
+Link: World Bank Data Catalog
+3. Potential Use:
+ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
+Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
+
+# Potential Use:
+ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
+Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
 
 ## Technical Details
 [Explain the technology, backend, JS drones, etc.]
