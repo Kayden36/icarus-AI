@@ -2,10 +2,11 @@
 This prototype demonstrates how an AI Agent helps empower off-grid communities with connectivity in form of SMS, Voice & Data microbundles using Carbon Credits generated when CO2 Emissions are avoided by consuming Solar Power. 
 iCARUS AI is deployed on https://vgridafrica.com, a gamified web application which measures solar power usage and carbon emissions avoided & rewards users with connectivity credits that can be redeemed as SMS, Data & Voice bundles on demand. 
 
-ICARUS AI is designed to abstract away from the complex mechanism behind this process to help users seamlessly connect their solar units to earn & reap the rewards in a fun conversational manner.
+# Introduction 
+Connectivity remains poor in regions such as Southern Africa despite abundant sustainable energy resources, in particular solar energy and photovoltaics with rich carbon offsetting potential. This AI model is designed to abstract away from the complex mechanism carbon crediting mechanisms and GHG mitigation activity registration bureaucracy to help users seamlessly connect solar units & track carbon offsets to earn & reap "CONNECTIVITY CREDITS" from carbon markets which have remained exclusive to large corporations. ICARUS AI is poised to easily disrupt this status quo, in a fun conversational manner.
 
-KNOWLEDGE BASE
-i. Global Electricity Grid
+# KNOWLEDGE BASE
+_ Global Electricity Grid
 Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
 Source: World Bank
 Link: World Bank Data Catalog
