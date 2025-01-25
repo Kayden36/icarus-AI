@@ -7,11 +7,13 @@ This AI Chatbot simplifies solar energy adoption, gamifies CO2 offsetting by rew
 Connectivity remains poor in regions such as Southern Africa despite abundant sustainable energy resources, in particular solar energy and photovoltaics with rich carbon offsetting potential. This AI model is designed to abstract away from the complex carbon crediting mechanisms and GHG mitigation bureaucracy by seamlessly aggregating solar output, tracking carbon offsets & rewarding users with connectivity credits raised from carbon markets which have remained exclusive to large corporations. With icarus, we aim at paving way for democratizing the $1.5 Trillion Carbon Markets to ensure that actual offgrid communities also benefit individually, something currently impossible. 
 
 ## Notable Challenges affecting Connectivity 
-1. Over 750MW drought induced Hydro power deficit in Southern Africa;
-2. Information gap on benefits of using sustainable energy sources due to complexities of carbon credit mechanisms
-3. Technological deficit to track & aggregate solar output to generate carbon credits
-4. Turning Carbon Credits into something actually tangible & useful such as SMS, data, voice, or discounts.
+1. Over 750MW drought induced Hydro power deficit in Southern Africa rendering Connectivity costs to spike;
+2. Regression to fossil fuels due to information gap on benefits of using sustainable energy sources due to complexities of carbon credit mechanisms
+3. Technological deficit to aggregate the invisible solar output silos (nodes) to generate legitimate carbon credits as one homogeneous ecosystem. 
+4. Using Carbon Credits for something actually tangible & useful such as SMS, data, voice, or discounts.
+
 ## Getting Started
+
 ### Prerequisites
 ### Installation
 
