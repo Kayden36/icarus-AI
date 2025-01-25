@@ -1,5 +1,6 @@
-# PROJECT TITLE
-# ICARUS - Transforming Carbon Credits into Connectivity for underserved Communities 
+# PROJECT TITLE - ICARUS 
+![logo](Media/IMG-20240923-WA0003.jpg)
+# Transforming Carbon Credits into Connectivity for underserved Communities 
 This prototype demonstrates how an AI Agent helps empower off-grid communities with connectivity in form of SMS, Voice & Data microbundles using Carbon Credits generated when CO2 Emissions are avoided by consuming Solar Power. 
 
 # Introduction 
