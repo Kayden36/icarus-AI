@@ -28,38 +28,38 @@ Meanwhile, notable pressing challenges affecting Connectivity include;
 3. Technological deficit to aggregate the invisible solar output silos (nodes) to generate legitimate carbon credits as one homogeneous ecosystem. 
 4. Using Carbon Credits for something actually tangible & useful such as SMS, data, voice, or discounts.
 
-# How it works
-Here's a step-by-step explanation of how the VGrid Africa ICARUS AI chatbot works:
-Step 1: User Interaction
-The user interacts with the chatbot through a conversational interface, such as a messaging app or website.
-
-Step 2: Natural Language Understanding (NLU)
-The chatbot's NLU component processes the user's input to identify their intent, entities, and context.
-
-Step 3: Knowledge Base Retrieval
-- User Profile Knowledge Base
-- Incentives Knowledge Base
-- Regional Energy Knowledge Base
-
-Step 4: AI-Driven Response Generation
-The chatbot's AI component generates a human-like response based on the retrieved information and the user's input.
-
-Step 5: Response Delivery
-The chatbot delivers the response to the user through the conversational interface.
-
-Step 6: User Feedback and Iteration
-The user provides feedback to the chatbot, which is used to iterate and improve the chatbot's responses and overall performance.
-
-Step 7: Onboarding and Incentivization
-The chatbot guides the user through the onboarding process, provides personalized recommendations, and offers incentives for adopting solar energy solutions.
-
-Step 8: Ongoing Support and Engagement
-The chatbot provides ongoing support and engagement to the user, ensuring a seamless and personalized experience throughout their solar energy journey.
 ## Getting Started
 
 ### Prerequisites
 ### Installation
 
+# How it works
+Here's a step-by-step explanation of how the VGrid Africa ICARUS AI chatbot works:
+1. Step 1: User Interaction
+The user interacts with the chatbot through a conversational interface, such as a messaging app or website.
+
+2. Step 2: Natural Language Understanding (NLU)
+The chatbot's NLU component processes the user's input to identify their intent, entities, and context.
+
+3. Step 3: Knowledge Base Retrieval
+- User Profile Knowledge Base
+- Incentives Knowledge Base
+- Regional Energy Knowledge Base
+
+4. Step 4: AI-Driven Response Generation
+The chatbot's AI component generates a human-like response based on the retrieved information and the user's input.
+
+5. Step 5: Response Delivery
+The chatbot delivers the response to the user through the conversational interface.
+
+6. Step 6: User Feedback and Iteration
+The user provides feedback to the chatbot, which is used to iterate and improve the chatbot's responses and overall performance.
+
+7. Step 7: Onboarding and Incentivization
+The chatbot guides the user through the onboarding process, provides personalized recommendations, and offers incentives for adopting solar energy solutions.
+
+8. Step 8: Ongoing Support and Engagement
+The chatbot provides ongoing support and engagement to the user, ensuring a seamless and personalized experience throughout their solar energy journey.
 ## Usage
 ### AI Chatbot
 Abstracts user complexity and automates tasks...
