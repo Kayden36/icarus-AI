@@ -3,6 +3,23 @@
 # Transforming Carbon Credits into Connectivity For Off-grid Communities 
 This AI Chatbot simplifies solar energy adoption, gamifies CO2 offsetting by rewarding generated carbon credits in form of Voice, SMS & Data Connectivity Credits (microbundles) for users in off-grid and underserved communities.
 
+## Table of Contents
+1. [Introduction](#introduction)  
+2. [Features](#features)  
+3. [How It Works](#how-it-works)  
+4. [Getting Started](#getting-started)  
+   - [Prerequisites](#prerequisites)  
+   - [Installation](#installation)  
+5. [Usage](#usage)  
+   - [AI Chatbot](#ai-chatbot)  
+   - [Solar Panel Connection](#solar-panel-connection)  
+   - [Real-time Solar Output Tracking](#real-time-solar-output-tracking)  
+   - [Carbon Credit Tracking](#carbon-credit-tracking)  
+   - [Redeeming Connectivity Credits](#redeeming-connectivity-credits)  
+6. [Technical Details](#technical-details)  
+7. [Contributing](#contributing)  
+8. [License](#license)
+
 # Introduction 
 Connectivity remains poor in regions such as Southern Africa despite abundant sustainable energy resources, in particular solar energy and photovoltaics with rich carbon offsetting potential. This AI model is designed to abstract away from the complex carbon crediting mechanisms and GHG mitigation bureaucracy by seamlessly aggregating solar output, tracking carbon offsets & rewarding users with connectivity credits raised from carbon markets which have remained exclusive to large corporations. With icarus, we aim at paving way for democratizing the $1.5 Trillion Carbon Markets to ensure that actual offgrid communities also benefit individually, something currently impossible. 
 
