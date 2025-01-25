@@ -36,20 +36,7 @@ The user interacts with the chatbot through a conversational interface, such as 
 Step 2: Natural Language Understanding (NLU)
 The chatbot's NLU component processes the user's input to identify their intent, entities, and context.
 
-# ICARUS KNOWLEDGE BASE/GIGA RESOURCES
-The NLU component retrieves information from the chatbot's knowledge bases, which include:
-# VGrid Africa Web Application, Advanced Meta & API Endpoints
-This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
-# Global Electricity Grid
-Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
-Source: World Bank
-Link: World Bank Data Catalog
-
-# Potential Use:
-ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
-Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
 Step 3: Knowledge Base Retrieval
-
 - User Profile Knowledge Base
 - Incentives Knowledge Base
 - Regional Energy Knowledge Base
@@ -76,6 +63,18 @@ The chatbot provides ongoing support and engagement to the user, ensuring a seam
 ## Usage
 ### AI Chatbot
 Abstracts user complexity and automates tasks...
+# ICARUS KNOWLEDGE BASE/GIGA RESOURCES
+The NLU component retrieves information from the chatbot's knowledge bases, which include:
+1. VGrid Africa Web Application, Advanced Meta & API Endpoints
+This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
+2. Global Electricity Grid
+Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
+Source: World Bank
+Link: World Bank Data Catalog
+3. Potential Use:
+ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
+Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
+
 
 ### Solar Panel Connection
 Guides users through setup...
