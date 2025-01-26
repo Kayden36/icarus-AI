@@ -1,0 +1,12 @@
+curl -X POST https://vgridafrica.com/wp-json/wp/v2/solar_node \
+-H "Content-Type: application/json" \
+-H "Authorization: Bearer YOUR_ACCESS_TOKEN" \
+-d '{
+  "title": "New Solar Node 1",
+  "status": "active",
+  "owner": "John Doe",
+  "ghg_offset": 50.5,
+  "location": "Zambia",
+  "credits": 100,
+  "other_custom_field": "example_value"
+}'
