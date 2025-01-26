@@ -1,9 +1,9 @@
-# PROJECT TITLE: iCARUS AI CHATBOT
+# PROJECT TITLE: AI powered Connectivity from Photovoltaics based Carbon offsetting Model
 An AI agent that allows users in low income underserved regions to link their solar energy panels to the vgridafrica.com gamified carbon offsetting model, track offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
 This model is tailored to cater the rising adoption of solar energy in southern Africa which has been hit with a 1200MW drought induced Hydropower deficits
 
 # Overview
-ICARUS AI Bot is designed to abstract away from the complexities of vgridafrica.com carbon offsetting model that computes carbon credits based on GHG emissions avoided by using solar energy to provide connectivity on demand in form of Data & SMS or voice. 
+ICARUS AI Bot is designed to abstract away from the complexities of vgridafrica.com photovoltaic based carbon offsetting model that computes carbon credits based on GHG emissions avoided by using solar energy to provide connectivity on demand in form of Data & SMS or voice. 
 The goal is to incentivise sustainable living and digital inclusion in off-grid communities while disrupting the $1.5Trillion Carbon markets.
 
 # Features
