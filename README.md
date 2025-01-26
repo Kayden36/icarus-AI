@@ -6,6 +6,12 @@ This model is tailored to cater the rising adoption of solar energy in southern 
 ICARUS AI Bot is designed to abstract away from the complexities of vgridafrica.com photovoltaic based carbon offsetting model that computes carbon credits based on GHG emissions avoided by using solar energy to provide connectivity on demand in form of Data & SMS or voice. 
 The goal is to incentivise sustainable living and digital inclusion in off-grid communities while disrupting the $1.5Trillion Carbon markets.
 
+# Application Live Demo 
+- Visit vgridafrica.com
+- launch ICARUS on the bottom right corner.
+- Dont forget to turn off the candlelight on bottom left of screen.
+- Follow instructions from ICARUS.
+
 # Features
 - Multimodal Voice chatbot assistant for onboarding & engagement
 - Visualizer Map for solar nodes in the world 
