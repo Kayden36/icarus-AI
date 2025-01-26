@@ -31,6 +31,8 @@ This project utilizes the following datasets:
 - Giga Schools Connectivity Dataset
 - Ooni Observatory to test connectivity in any mobile network
   
+# How it works
+![how its works](Media/install-solarpa_1737677989.png)
 ## Technical Requirements
 - PHP 7.x
 - AI/ML 
