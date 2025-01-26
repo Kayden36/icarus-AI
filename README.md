@@ -7,7 +7,7 @@ ICARUS AI Bot is designed to abstract away from the complexities of vgridafrica.
 The goal is to incentivise sustainable living and digital inclusion in off-grid communities while disrupting the $1.5Trillion Carbon markets.
 
 # Application Live Demo 
-- Visit vgridafrica.com
+- Visit https://vgridafrica.com
 - launch ICARUS on the bottom right corner.
 - Dont forget to turn off the candlelight on bottom left of screen.
 - Follow instructions from ICARUS.
