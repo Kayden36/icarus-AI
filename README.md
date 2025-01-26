@@ -1,110 +1,65 @@
-# PROJECT TITLE - ICARUS AI 
-![logo](Media/IMG-20240923-WA0003.jpg)
-# Transforming Carbon Credits into Connectivity For Off-grid Communities 
-This AI Chatbot simplifies solar energy adoption, gamifies CO2 offsetting by rewarding generated carbon credits in form of Voice, SMS & Data Connectivity Credits (microbundles) for users in off-grid and underserved communities.
+# PROJECT TITLE: iCARUS AI CHATBOT
+An AI agent that allows users in low income underserved regions to link their solar energy panels to the vgridafrica.com gamified carbon offsetting model, track offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
+This model is tailored to cater the rising adoption of solar energy in southern Africa which has been hit with a 1200MW drought induced Hydropower deficits
 
-## Table of Contents
-1. [Introduction](#introduction)  
-2. [Features](#features)  
-3. [How It Works](#how-it-works)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-5. [Usage](#usage)  
-   - [AI Chatbot](#ai-chatbot)  
-   - [Solar Panel Connection](#solar-panel-connection)  
-   - [Real-time Solar Output Tracking](#real-time-solar-output-tracking)  
-   - [Carbon Credit Tracking](#carbon-credit-tracking)  
-   - [Redeeming Connectivity Credits](#redeeming-connectivity-credits)  
-6. [Technical Details](#technical-details)  
-7. [Contributing](#contributing)  
-8. [License](#license)
+# Overview
+ICARUS AI Bot is designed to abstract away from the complexities of vgridafrica.com carbon offsetting model that computes carbon credits based on GHG emissions avoided by using solar energy to provide connectivity on demand in form of Data & SMS or voice. 
+The goal is to incentivise sustainable living and digital inclusion in off-grid communities while disrupting the $1.5Trillion Carbon markets.
 
-# Introduction 
-Connectivity remains poor in regions such as Southern Africa despite abundant sustainable energy resources, in particular solar energy and photovoltaics with rich carbon offsetting potential. This AI model is designed to abstract away from the complex carbon crediting mechanisms and GHG mitigation bureaucracy by seamlessly aggregating solar output, tracking carbon offsets & rewarding users with connectivity credits raised from carbon markets which have remained exclusive to large corporations. With icarus, we aim at paving way for democratizing the $1.5 Trillion Carbon Markets to ensure that actual offgrid communities also benefit individually, something currently impossible. 
-Meanwhile, notable pressing challenges affecting Connectivity include;
-1. Over 750MW drought induced Hydro power deficit in Southern Africa rendering Connectivity costs to spike;
-2. Regression to fossil fuels due to information gap on benefits of using sustainable energy sources due to complexities of carbon credit mechanisms
-3. Technological deficit to aggregate the invisible solar output silos (nodes) to generate legitimate carbon credits as one homogeneous ecosystem. 
-4. Using Carbon Credits for something actually tangible & useful such as SMS, data, voice, or discounts.
+# Features
+- Multimodal Voice chatbot assistant for onboarding & engagement
+- Visualizer Map for solar nodes in the world 
+- Compute solar power output at each point
+- Compute carbon offsets in real time
+- Gamified leaderboard
+- Carbon Wallet
 
-# Getting Started
-VGrid Africa Web Application, Advanced Meta & API Endpoints
-This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
-# How It works  
-Here's a step-by-step explanation of how the ICARUS AI chatbot works:
-1. ### User Interaction
-The user interacts with the iCarus through a conversational interface here vgridafrica.com 
-2. ### Natural Language Understanding (NLU)
-   ICARUS's NLU component processes the user's input to identify their intent, entities, and context.
-3. ### Knowledge Base Retrieval
-4. he NLU component retrieves information from the chatbot's knowledge bases, which include:
-2. Global Electricity Grid
-Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
-Source: World Bank
-Link: World Bank Data Catalog
-- User Profile Knowledge Base
-- Incentives Knowledge Base
-- Regional Energy Knowledge Base
+## Knowledge Base
+This project utilizes the following datasets:
+- VGrid Solar Maps & webscraping
+- Global Electricity Grid Dataset (World Bank)
+- NASA Infrared World Map
+- Giga Schools Connectivity Dataset
+- Ooni Observatory to test connectivity in any mobile network
+  
+## Technical Requirements
+- PHP 7.x
+- AI/ML 
+- MySQL 8.x
+- WordPress 5.x (optional)
+- Required extensions:
 
-4. Step 4: AI-Driven Response Generation
-The chatbot's AI component generates a human-like response based on the retrieved information and the user's input.
+# Installation
+_Prerequisites_
+- Install WordPress (if using as a WordPress plugin)
+- Any Chatbot functionality with AI API support.
 
-5. Step 5: Response Delivery
-The chatbot delivers the response to the user through the conversational interface.
+##_Steps_
+1. Clone the repository: `git clone https://github.com/kayden36/icarus-ai.git`
+2. Install dependencies: `composer install`
+3. Configure environment variables: 
 
-6. Step 6: User Feedback and Iteration
-The user provides feedback to the chatbot, which is used to iterate and improve the chatbot's responses and overall performance.
+## API Integration
+To integrate the VGrid chatbot into your website, follow these steps:
 
-7. Step 7: Onboarding and Incentivization
-The chatbot guides the user through the onboarding process, provides personalized recommendations, and offers incentives for adopting solar energy solutions.
-8. Step 8: Ongoing Support and Engagement
-The chatbot provides ongoing support and engagement to the user, ensuring a seamless and personalized experience throughout their solar energy journey.
-## Usage
-### AI Chatbot
-Abstracts user complexity and automates tasks...
-### Solar Panel Connection
-Guides users through setup...
+1. Obtain an API key by contacting us at founder@vgridafrica.com 
+2. Configure chatbot using botsettngs.yaml
+3. Connect icarus AI plugin with your API Key
 
-### Real-time Solar Output Tracking
-Provides live monitoring of...
-
-### Carbon Credit Tracking
-Tracks generated credits and visualizes...
-
-### Redeeming Connectivity Credits
-Converts carbon credits into SMS, data, voice, or discounts...
-3.he NLU component retrieves information from the chatbot's knowledge bases, which include:
-1. VGrid Africa Web Application, Advanced Meta & API Endpoints
-This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
-2. Global Electricity Grid
-Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
-Source: World Bank
-Link: World Bank Data Catalog
-3. Potential Use:
-ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
-Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
-
-he NLU component retrieves information from the chatbot's knowledge bases, which include:
-1. VGrid Africa Web Application, Advanced Meta & API Endpoints
-This the Chatbots primary Knowledge Base for users, accounts, sales and individual Tracking using cronjobs, Crawling the webapps native REST API, scraping all pertinent for analysis by the LLM & User Journeys for specific checkpoints to keep costs low.
-2. Global Electricity Grid
-Description: A global map of electricity transmission and distribution lines, derived using the Gridfinder model. This dataset provides insights into existing grid infrastructure worldwide, enabling better planning for energy solutions.
-Source: World Bank
-Link: World Bank Data Catalog
-3. Potential Use:
-ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
-Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
-
-# Potential Use:
-ICARUS can use this dataset to identify areas underserved by the grid, helping guide decisions on deploying solar panels and off-grid solutions.
-Provides users with infrastructure insights to plan energy access projects in remote or underdeveloped regions.
-
-## Technical Details
-[Explain the technology, backend, JS drones, etc.]
+# Usage
+1.  Access the web application through your web browser
+2. Follow icarus instructions to connect to the VGrid system
+3. Engage with the chatbot to track your solar usage and earn credits
+4. Redeem your credits for digital services
 
 ## Contributing
-[Guidelines for contributing to the project.]
+Contributions are welcome! Please submit a pull request.
 
 ## License
-[MIT]
+This project is licensed under MIT.
+
+## Acknowledgments
+Special thanks to Aliya-Ali for Contribution.
+
+### Contact
+Email: founder@vgridafrica.com 
