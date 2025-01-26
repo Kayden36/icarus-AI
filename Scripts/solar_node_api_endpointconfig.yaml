@@ -1,0 +1,57 @@
+# ACF Configuration for the Custom Post Type 'solar_node'
+groups:
+  - key: group_solar_node
+    title: Solar Node Configuration
+    fields:
+      # Node ID (Text Field)
+      - key: field_node_id
+        label: Node ID
+        name: node_id
+        type: text
+        required: true
+
+      # Location (Google Map Field)
+      - key: field_location
+        label: Location
+        name: location
+        type: google_map
+        required: true
+
+      # Capacity (Number Field)
+      - key: field_capacity
+        label: Capacity (kW)
+        name: capacity
+        type: number
+        required: true
+        min: 0
+
+      # Status (Select Field)
+      - key: field_status
+        label: Status
+        name: status
+        type: select
+        required: true
+        choices:
+          - Active
+          - Inactive
+          - Maintenance
+
+      # Owner Name (Text Field)
+      - key: field_owner_name
+        label: Owner Name
+        name: owner_name
+        type: text
+
+      # Carbon Credits Earned (Number Field)
+      - key: field_carbon_credits
+        label: Carbon Credits Earned
+        name: carbon_credits
+        type: number
+        required: false
+        step: 0.01
+
+    # Apply this group to the 'solar_node' post type
+    location:
+      - param: post_type
+        operator: "=="
+        value: solar_node
