@@ -1,5 +1,5 @@
 # PROJECT TITLE: AI powered Connectivity from Photovoltaics based Carbon offsetting Model)
-[![icarus](https.img.youtube.com/watch?v=3a4Mqn75fg0)](https://m.youtube.com/watch?v=3a4Mqn75fg0)
+![icarus](Media/IMG-20240926-WA0018.jpg)](https://m.youtube.com/watch?v=3a4Mqn75fg0)
 # About
 An AI agent that allows users in low income underserved regions to link their solar energy panels to the vgridafrica.com gamified carbon offsetting model, track offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
 This model is tailored to cater the rising adoption of solar energy in southern Africa which has been hit with a 1200MW drought induced Hydropower deficits
