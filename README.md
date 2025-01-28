@@ -1,7 +1,8 @@
-# PROJECT TITLE: ICARUS AI - Providing Connectivity using Carbon offsetting Virtual Solar Grid
+# PROJECT TITLE: ICARUS AI 
+# Providing Connectivity using Carbon offsetting Virtual Solar Grid
 ![icarus](Media/IMG-20240926-WA0018.jpg)](https://m.youtube.com/watch?v=3a4Mqn75fg0)
 # About
-An AI agent that allows users in low income underserved regions to link their solar energy panels to the vgridafrica.com gamified carbon offsetting model, track offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
+An AI Assistant that helps users in underserved regions to obtain IoT solar units and connect to our gamified carbon offsetting Virtual grid to track their GHG offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
 This model is tailored to cater the rising adoption of solar energy in southern Africa which has been hit with a 1200MW drought induced Hydropower deficits
 
 # Overview
@@ -17,10 +18,10 @@ The goal is to incentivise sustainable living and digital inclusion in off-grid 
 # Features
 - Multimodal Voice chatbot assistant for onboarding & engagement
 - Visualizer Map for solar nodes in the world 
-- Compute solar power output at each point
-- Compute carbon offsets in real time
-- Gamified leaderboard
-- Carbon Wallet
+- iCARUS can compute solar power output for each user
+- Compute carbon offsets in real time for each user
+- Read out Gamified leaderboard
+- Manage users Carbon Wallet to redeem goodies
 
 ## Knowledge Base
 This project utilizes the following datasets:
