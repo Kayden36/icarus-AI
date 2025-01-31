@@ -1,7 +1,7 @@
 # PROJECT TITLE: ICARUS AI 
 ### Portfolio: https://www.f6s.com/vgrid
 ![icarus](Media/Polish_20250131_114557539.jpg)]
-# AI driven Connectivity using Carbon offsetting Virtual Solar Grid
+## AI driven Connectivity using Carbon offsetting Virtual Solar Grid
 ![icarus](Media/IMG-20240926-WA0018.jpg)](https://m.youtube.com/watch?v=3a4Mqn75fg0)
 # About
 An AI Assistant that helps users in underserved regions to obtain IoT solar units and connect to our gamified carbon offsetting Virtual grid to track their GHG offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
