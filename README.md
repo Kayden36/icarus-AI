@@ -21,7 +21,7 @@ The goal is to incentivise sustainable living and digital inclusion in off-grid 
 - Redeem free SMS & Data Bundles Instantly
 - Visualizer Map for solar nodes in the world 
 - Dynamic Gamified leaderboard
-#AI MOD PRECISION
+# AI WITH JS. PRECISION
 ICARUS AI is able to deliver high precision data and insights using JavaScript Drones, each dedicated to Real-Time Precision microservices optimizing ICARUS for the following capabilities:
 - Tracking solar node performance
 - Monitoring live offsets
