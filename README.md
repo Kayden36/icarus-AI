@@ -4,7 +4,7 @@
 ## AI driven Connectivity using Carbon offsetting Virtual Solar Grid
 ![icarus](Media/IMG-20240926-WA0018.jpg)](https://m.youtube.com/watch?v=3a4Mqn75fg0)
 # About
-An AI Assistant that helps users in underserved regions to obtain IoT solar units and connect to our gamified carbon offsetting Virtual grid to track their GHG offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
+ICARUS is not just an AI Agent, it's an AI orchestrator abstracting complex inbuilt precision microservices & regulatory bureaucracy to provide easy guidance for users in underserved areas to access solar power, track their carbon offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
 This model is tailored to cater the rising adoption of solar energy in southern Africa which has been hit with a 1200MW drought induced Hydropower deficits
 
 # Overview
@@ -13,21 +13,24 @@ The goal is to incentivise sustainable living and digital inclusion in off-grid 
 
 # Application Live Demo 
 - Visit https://vgridafrica.com
-- launch ICARUS on the bottom right corner.
-- Dont forget to turn off the candlelight on bottom left of screen.
+- launch ICARUS on the bottom right corner
 - Follow instructions from ICARUS.
 
 # Features
 - Multimodal Text & Voice AI chatbot assistant for onboarding and continuous engagement 
 - Redeem free SMS & Data Bundles Instantly
 - Visualizer Map for solar nodes in the world 
-- Ask iCarus for live Solar power total and individual output
-- Compute carbon offsetting instantly
 - Dynamic Gamified leaderboard
-### +many more amazing features
-
+#AI MOD PRECISION
+ICARUS AI is able to deliver high precision data and insights using JavaScript Drones, each dedicated to Real-Time Precision microservices optimizing ICARUS for the following capabilities:
+- Tracking solar node performance
+- Monitoring live offsets
+- Managing rewards balances
+- Handling user requests and inquiries
+ 
 ## Knowledge Base
 This project utilizes the following datasets:
+- Inbuilt Javascript Microservices
 - VGrid Solar Maps & webscraping
 - Global Electricity Grid Dataset (World Bank)
 - NASA Infrared World Map
