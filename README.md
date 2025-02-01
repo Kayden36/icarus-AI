@@ -64,10 +64,10 @@ To integrate the VGrid chatbot into your website, follow these steps:
 3. Connect icarus AI plugin with your API Key
 
 # Usage
-1.  Access the web application through your web browser
-2. Follow icarus instructions to connect to the VGrid system
-3. Engage with the chatbot to track your solar usage and earn credits
-4. Redeem your credits for digital services
+1.  Personal Carbon Footprinting
+2.  Emergency Connectivity on demand
+3.  Geospatial Analysis
+4.  Data driven insights 
 
 ## Contributing
 Contributions are welcome! Please submit a pull request.
