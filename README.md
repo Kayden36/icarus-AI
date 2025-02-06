@@ -1,5 +1,4 @@
 # PROJECT TITLE: ICARUS AI 
-### Portfolio: https://www.f6s.com/vgrid
 ![icarus](Media/Polish_20250131_114557539.jpg)]
 ## AI driven Connectivity using Carbon offsetting Virtual Solar Grid
 ![icarus](Media/IMG-20240926-WA0018.jpg)](https://m.youtube.com/watch?v=3a4Mqn75fg0)
@@ -75,4 +74,6 @@ This project is licensed under MIT with NDA clause.
 Special thanks to Aliya-Ali for Contribution.
 
 ### Contact
-Email: founder@vgridafrica.com 
+Konrad Malilwe
+- Email: founder@vgridafrica.com 
+- Portfolio: https://www.f6s.com/vgrid
