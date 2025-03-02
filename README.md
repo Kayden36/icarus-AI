@@ -1,6 +1,6 @@
-# PROJECT TITLE: ICARUS AI 
+# PROJECT TITLE: Vgrid Intelligent Solar Network
 ![icarus](Media/Polish_20250131_114557539.jpg)]
-## AI driven Connectivity using Carbon offsetting Virtual Solar Grid
+## Transforming solar nodes into an intelligent solar network grid by embedding AI agents directly in communities to bridge the connectivity gap in offgrid and rural areas 
 ![icarus](Media/IMG-20240926-WA0018.jpg)](https://m.youtube.com/watch?v=3a4Mqn75fg0)
 # About
 ICARUS is not just an AI Agent, it's an AI orchestrator abstracting complex inbuilt precision microservices & regulatory bureaucracy to provide easy guidance for users in underserved areas to access solar power, track their carbon offsets and earn connectivity credits in form of SMS, Voice & Data microbundles. 
