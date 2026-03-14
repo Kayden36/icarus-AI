@@ -2,7 +2,7 @@
 
 ## Transforming solar panels into a connected, verified solar network
 ](https://m.youtube.com/watch?v=3a4Mqn75fg0�)
-About
+## About
 V-Grid Africa with Icarus AI turns solar panels into a verified intelligent solar network, automatically detecting panels from satellite imagery, tracking their performance, and issuing instant rewards in the form of SMS, Voice, or Data micro-bundles. It abstracts the complexity of carbon offsets, GHG accounting, and network logistics to make adoption easy, auditable, and scalable, while promoting digital inclusion in off-grid communities.
 ## Overview
 �
