@@ -1,4 +1,4 @@
-# PROJECT TITLE: V-Grid Smart Solar Network
+# Project title: V-Grid Smart Solar Network
 
 ## Transforming solar panels into a connected, verified solar network
 (https://m.youtube.com/watch?v=3a4Mqn75fg0�)
@@ -19,7 +19,8 @@ Launch Icarus AI from the bottom right corner
 Follow on-screen instructions
 ## Features
 Multimodal Text & Voice AI chatbot for onboarding and engagement
-## Claim & Earn: Confirm detected panels and instantly receive data, SMS, or voice credits, tracked on a gamified leaderboard and solar node map
+## Claim & Earn
+Confirm detected panels and instantly receive data, SMS, or voice credits, tracked on a gamified leaderboard and solar node map
 ## Visualizer map of solar nodes worldwide
 Real-time monitoring of offsets and rewards
 Icarus AI – Enhanced Precision & Awareness
