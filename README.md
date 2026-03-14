@@ -3,7 +3,9 @@
 ## Transforming solar panels into a connected, verified solar network
 (https://m.youtube.com/watch?v=3a4Mqn75fg0�)
 ## About
-V-Grid Africa with Icarus AI turns solar panels into a verified intelligent solar network, automatically detecting panels from satellite imagery, tracking their performance, and issuing instant rewards in the form of SMS, Voice, or Data micro-bundles. It abstracts the complexity of carbon offsets, GHG accounting, and network logistics to make adoption easy, auditable, and scalable, while promoting digital inclusion in off-grid communities.
+V-Grid Africa with Icarus AI turns solar panels into a verified intelligent solar network, automatically detecting panels from satellite imagery, tracking their performance, and issuing instant rewards in the form of SMS, Voice, or Data micro-bundles. 
+## Why Vgrid?
+It abstracts the complexity of carbon offsets &  GHG accounting and makes solar adoption easy, auditable, and scalable, while promoting digital inclusion in off-grid communities.
 ## Overview
 �
 This upgraded model targets Southern Africa, where a 1200MW drought-induced hydropower deficit drives urgent demand for solar. Icarus AI runs on V-Grid 2.0 to:
@@ -21,28 +23,23 @@ Multimodal Text & Voice AI chatbot for onboarding and engagement
 ## Visualizer map of solar nodes worldwide
 Real-time monitoring of offsets and rewards
 Icarus AI – Enhanced Precision & Awareness
-Icarus uses JavaScript microservices wrapped in Gutenberg blocks to fetch real-time data and optimize AI responses:
-Tracking solar node performance
+Icarus uses RAG to optimize AI responses:
+Detect & Track solar node performance
 Monitoring live offsets
-Managing rewards balances
-Handling user requests
-Knowledge Base & Data Sources
-Metadata analysis & feedback logs
-Inbuilt JS microservices
-V-Grid solar maps & web scraping
+Managing rewards 
+## Datasets
+Sentinel satelite images dataset
 Global Electricity Grid Dataset (World Bank)
 NASA Infrared Night Lights Satellite Datasets
 Giga Schools Connectivity Dataset
-Ooni network testing
 ## How it Works
 �
 Satellite imagery detects solar panels
-Icarus AI validates panels and converts carbon offsets into rewards
-Users claim rewards instantly
+Icarus AI validates panels and converts into carbon offsets
+Users claim rewards.
 Network grows as more solar nodes are verified
 ## Technical Stack
 AI/ML: Space-based CV + convolutional neural networks
 Backend: Python / Streamlit
 Frontend: React.js, Leaflet for interactive maps
-Data Sources: NASA Night Lights, Global Electricity Grid, Local Solar Maps, Giga Schools Connectivity Dataset
 Integration: Blockchain-ready for tamper-proof rewards & carbon credits
